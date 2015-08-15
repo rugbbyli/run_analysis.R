@@ -1,10 +1,11 @@
-There are 68 variables and 180 observations in the final dataset:
+The final data set contains 68 variables with 180 observations. 
+Follows are variable names and their value ranges:
 "subject" :
     1-30
-"activity" :  
+"activity" :
     WALKING,WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING
 
-the other 66 variables are all numbers with at most 7 decimal places:
+the other 66 variables are number values contains at most 7 decimal places:
 "tBodyAcc-mean()-X"          
 "tBodyAcc-mean()-Y"          
 "tBodyAcc-mean()-Z"          
